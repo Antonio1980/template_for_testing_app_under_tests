@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: allure-python-commons-test
+Version: 2.8.16
+Summary: Common module for self-testing allure integrations with python-based frameworks
+Home-page: https://github.com/allure-framework/allure-python
+Author: QAMetaSoftware, Stanislav Seliverstov
+Author-email: sseliverstov@qameta.io
+License: Apache-2.0
+Platform: UNKNOWN
+Requires-Dist: pyhamcrest (>=1.9.0)
+Requires-Dist: six (>=1.9.0)
+
+UNKNOWN
+
+

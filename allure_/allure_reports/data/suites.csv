@@ -1,0 +1,19 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun May 31 22:43:52 IDT 2020","Sun May 31 22:43:52 IDT 2020","8","tests.processing_tests","actor_can_create_new_allocation_template_test","TestActorCreatingNewTemplate","","","TestActorCreatingNewTemplate","
+    Functional tests.
+    1. Check that actor have default fund and able to allocate it.
+    2. Check that actor can create new allocation template.
+    3. Check that actor can enter percentage allocations, validate it and choose remaining.
+    "
+"passed","Sun May 31 22:43:52 IDT 2020","Sun May 31 22:43:52 IDT 2020","5","tests.processing_tests","actor_can_create_new_allocation_template_test","TestActorCreatingNewTemplate","","","TestActorCreatingNewTemplate","
+    Functional tests.
+    1. Check that actor have default fund and able to allocate it.
+    2. Check that actor can create new allocation template.
+    3. Check that actor can enter percentage allocations, validate it and choose remaining.
+    "
+"passed","Sun May 31 22:43:52 IDT 2020","Sun May 31 22:43:52 IDT 2020","7","tests.processing_tests","actor_can_create_new_allocation_template_test","TestActorCreatingNewTemplate","","","TestActorCreatingNewTemplate","
+    Functional tests.
+    1. Check that actor have default fund and able to allocate it.
+    2. Check that actor can create new allocation template.
+    3. Check that actor can enter percentage allocations, validate it and choose remaining.
+    "

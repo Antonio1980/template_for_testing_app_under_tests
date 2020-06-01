@@ -1,0 +1,4 @@
+[32mINFO    [0m Default_Logger:allocation_template.py:31 Status is Enabled
+[32mINFO    [0m Default_Logger:client.py:29 Client funds is : [Fund(name=Default_Fund, quantity_allocated=0.0, quantity_unallocated=100.0)] 
+[32mINFO    [0m Default_Logger:allocation_template.py:31 Status is Enabled
+[32mINFO    [0m Default_Logger:client.py:29 Client funds is : [Fund(name=Default_Fund, quantity_allocated=0.0, quantity_unallocated=100.0)]

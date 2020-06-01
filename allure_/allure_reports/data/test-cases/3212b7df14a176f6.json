@@ -1,0 +1,137 @@
+{
+  "uid" : "3212b7df14a176f6",
+  "name" : "TestActorCreatingNewTemplate",
+  "fullName" : "tests.processing_tests.actor_can_create_new_allocation_template_test.TestActorCreatingNewTemplate#test_actor_enter_percentage_allocations",
+  "historyId" : "96a7a4363165636c44cf1783d0503605",
+  "time" : {
+    "start" : 1590954011286,
+    "stop" : 1590954011293,
+    "duration" : 7
+  },
+  "description" : "\n    Functional tests.\n    1. Check that actor have default fund and able to allocate it.\n    2. Check that actor can create new allocation template.\n    3. Check that actor can enter percentage allocations, validate it and choose remaining.\n    ",
+  "descriptionHtml" : "<pre><code>Functional tests.\n1. Check that actor have default fund and able to allocate it.\n2. Check that actor can create new allocation template.\n3. Check that actor can enter percentage allocations, validate it and choose remaining.\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "actor",
+    "time" : {
+      "start" : 1590954011240,
+      "stop" : 1590954011241,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "run_time_counter",
+    "time" : {
+      "start" : 1590954010237,
+      "stop" : 1590954011240,
+      "duration" : 1003
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n    Functional tests.\n    1. Check that actor have default fund and able to allocate it.\n    2. Check that actor can create new allocation template.\n    3. Check that actor can enter percentage allocations, validate it and choose remaining.\n    ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a03af8600d682776",
+      "name" : "log",
+      "source" : "a03af8600d682776.txt",
+      "type" : "text/plain",
+      "size" : 751
+    }, {
+      "uid" : "d93d0f5808204ac8",
+      "name" : "stdout",
+      "source" : "d93d0f5808204ac8.txt",
+      "type" : "text/plain",
+      "size" : 715
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "run_time_counter::stop_counter",
+    "time" : {
+      "start" : 1590954011299,
+      "stop" : 1590954012319,
+      "duration" : 1020
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "tag",
+    "value" : "incremental"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests.processing_tests"
+  }, {
+    "name" : "suite",
+    "value" : "actor_can_create_new_allocation_template_test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestActorCreatingNewTemplate"
+  }, {
+    "name" : "host",
+    "value" : "AntonShipulin-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "3318-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.processing_tests.actor_can_create_new_allocation_template_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "TestActorCreatingNewTemplate",
+    "url" : "processing_tests/actor_can_create_new_allocation_template_test.py",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "regression", "incremental" ]
+  },
+  "source" : "3212b7df14a176f6.json",
+  "parameterValues" : [ ]
+}

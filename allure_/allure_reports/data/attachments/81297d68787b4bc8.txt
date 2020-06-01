@@ -1,0 +1,8 @@
+2020-05-31 22:43:52,798 | INFO | Given percentage is: 0.23 
+2020-05-31 22:43:52,800 | INFO | Status is Enabled
+2020-05-31 22:43:52,800 | INFO | Client funds is : [Fund(name=Default_Fund, quantity_allocated=0.0, quantity_unallocated=100.0), Fund(name=Default_Fund, quantity_allocated=0.0, quantity_unallocated=100.0)] 
+2020-05-31 22:43:52,801 | INFO | Status is Enabled
+2020-05-31 22:43:52,802 | INFO | Status is Enabled
+2020-05-31 22:43:52,803 | INFO | Client funds is : [Fund(name=First_Fund, quantity_allocated=0.0, quantity_unallocated=100.0), Fund(name=First_Fund, quantity_allocated=0.0, quantity_unallocated=100.0)] 
+END TIME: 2.39318026
+AVERAGE OF THE TEST CASE RUN TIME: 0 minutes 0 seconds 0 microseconds

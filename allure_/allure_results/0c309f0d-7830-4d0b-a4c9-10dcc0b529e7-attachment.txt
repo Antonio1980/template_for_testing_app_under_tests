@@ -1,0 +1,6 @@
+2020-05-31 22:40:11,261 | INFO | Template Name is: New_Template
+2020-05-31 22:40:11,264 | INFO | Template ID is: e7av8bsazjctosldlxq3wp7fh4qvoy2k1dueylgzokdqro15fe
+2020-05-31 22:40:11,265 | INFO | Parent Org. is: uq5e5 
+New Template: AllocationTemplate(logger=<Logger Default_Logger (INFO)>, name=New_Template, parent_org=uq5e5, quantity_allocated=0.0, quantity_unallocated=100.0, status=Enabled, template_id=e7av8bsazjctosldlxq3wp7fh4qvoy2k1dueylgzokdqro15fe, total=100.0)
+2020-05-31 22:40:11,266 | INFO | Status is Enabled
+2020-05-31 22:40:11,266 | INFO | Client funds is : [Fund(name=Default_Fund, quantity_allocated=0.0, quantity_unallocated=100.0), Fund(name=Default_Fund, quantity_allocated=0.0, quantity_unallocated=100.0)] 
