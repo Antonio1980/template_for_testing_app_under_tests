@@ -19,22 +19,19 @@ The "allocation_template"- simple automation test project (Application under the
 LOCATION
 ---------
 
-- SSH: 
+- SSH: git@github.com:Antonio1980/fx_automation_framework.git
+- HTTPS://github.com/Antonio1980/fx_automation_framework.git
 
 TECHNOLOGIES
 ------------
 
 - pytest - advanced test framework.
-- tox - to isolate or manage virtual environments.
 - allure-pytest - reporting framework.
 
 RECOMMENDED PLUGINS
 -------------------
 - .gitignore - prevents redundant uploads.
-- CSV - plugin to support csv files.
 - Docker - for docker integration.
-- CMD support.
-- Python Terminal - terminal in separate window.
 
 REQUIREMENTS
 ------------
@@ -49,27 +46,28 @@ REQUIREMENTS
 
 TESTS
 -----
+* All examples are shown with collecting results files for allure report.
 
 1 Run all tests:
-* $ pytest -v tests --alluredir=allure/allure_results
+* $ pytest -v tests --alluredir=allure_/allure_results
 
 2 Run tests as a package:
-* $ pytest -v tests/processing_tests --alluredir=allure/allure_results
+* $ pytest -v tests/processing_tests --alluredir=allure_/allure_results
 
 3 Run specific test:
-* $ pytest -v tests/processing_tests/actor_can_create_new_allocation_template_test.py  --alluredir=allure/allure_results
+* $ pytest -v tests/processing_tests/actor_can_create_new_allocation_template_test.py  --alluredir=allure_/allure_results
 
 4 Run per test group (regression group as example):
-* $ pytest -v tests -m regression --alluredir=allure/allure_results
+* $ pytest -v tests -m regression --alluredir=allure_/allure_results
 
 5 Generate temporary allure report:
-* $ allure serve allure/allure_results
+* $ allure serve allure_/allure_results
   
 6 Generate report:
-* $ allure generate allure/allure_results -o allure/allure_reports --clean
+* $ allure generate allure_/allure_results -o allure_/allure_reports --clean
   
 7 Open allure report:
-* $ allure open allure/allure_reports
+* $ allure open allure_/allure_reports
 
 8 Show pytest fixtures and execution plan:
 * $ pytest --collect-only
