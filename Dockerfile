@@ -4,10 +4,9 @@ MAINTAINER "antishipul@gmail.com"
 
 ENV PATH /usr/local/bin:$PATH
 
-RUN apt-get update                   \
-    && apt-get install -y            \
-    python3-pip                      \
-    && cd /usr/local/bin             \
+RUN apt-get update                    \
+    && apt-get install -y python3-pip \
+    && cd /usr/local/bin              \
     && ln -s /usr/bin/python3 python
 
 RUN apt-get update          \
