@@ -28,6 +28,8 @@ Icon
 *.log
 
 # Sensitive or high-churn files:
+/.idea/
+.idea
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.xml
@@ -135,6 +137,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-/.idea/
-.idea
+# Project specific files
 /allure_/
+allure_/
+allure_/*
