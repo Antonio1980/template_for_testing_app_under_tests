@@ -19,8 +19,8 @@ The "allocation_template"- simple automation test project (Application under the
 LOCATION
 ---------
 
-- SSH: git@github.com:Antonio1980/fx_automation_framework.git
-- HTTPS://github.com/Antonio1980/fx_automation_framework.git
+- SSH: git@github.com:Antonio1980/template_for_testing_app_under_tests.git
+- HTTPS://github.com/Antonio1980/template_for_testing_app_under_tests.git
 
 TECHNOLOGIES
 ------------
